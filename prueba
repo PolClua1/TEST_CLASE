@@ -8,6 +8,8 @@ public class pa_amb_tomaquet {
         palabra1 = llegir.nextLine();
         System.out.println(palabra+" amb "+palabra1);
                 System.out.println(palabra+" ambasasas "+palabra1);
+                                System.out.println(palabra+" amsddsbasasas "+palabra1);
+
 
     }
 }
